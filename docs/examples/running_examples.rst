@@ -15,7 +15,7 @@ General instructions for running the `example source code <https://github.com/dr
 
    .. code-block:: bash
 
-       git clone http://github.com/dronekit/droneapi-python.git
+       git clone http://github.com/dronekit/dronekit-python.git
 
    
    
